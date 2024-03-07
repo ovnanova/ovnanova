@@ -1,4 +1,4 @@
-# ɴᴏᴠᴀ
+# nova
 
 -  🛠️ Tinkerer
 -  🦀 Rust
