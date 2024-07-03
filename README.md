@@ -1,5 +1,6 @@
 # nova
 
 -  🛠️ Tinkerer
--  🦀 Rust
+-  🐹 Golang
 -  🔰 Crypto(graphy)
+-  🏎 Drifter
