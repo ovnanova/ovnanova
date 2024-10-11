@@ -1,6 +1,6 @@
 # misha
 
 -  🛠️ Tinkerer
--  🐹 Golang · 🦀 Rust · 🟦 TypeScript
+-  🦕 Deno · 🦀 Rust
 -  🔰 Crypto(graphy)
 -  🚗 NB6C
